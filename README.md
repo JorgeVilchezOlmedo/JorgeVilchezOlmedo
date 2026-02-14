@@ -1,22 +1,28 @@
-# Hello, I am Jorge Vilchez
+# Jorge Vilchez
 
--I am an Undergraduate Student and Synthetic Biology self trained Enthusiast
--I would like expand how do we know the world from basic science to apply syntetic biology solutions
--I mostly write in R and Phyton
+Omics Research Trainee | Mass Spectrometry | Protein Design | Synbio
 
-This documents my learning curve, tools, projects in *bioinformatics*
+I am interested in how cellular systems respond to environmental and infectious perturbations at the proteome and metabolome level.
+I train in LC–MS workflows, molecular modeling, and reproducible bioinformatics pipelines.
+Long-term goal: develop synthetic biology solutions for infectious diseases.
 
 ## Coursework and Training
-| Topic | Institution / Platform | Type | Progress | Key Skills |
-|-------|------------------------|-------|-----------|-------------|
-| **Modeling and Molecular Simulations in Biology** | [Universidad Peruana Cayetano Heredia] | Course (syllabus followed) | 🧠 ON training | Molecular Modeling |
+| Topic | Institution / Platform | Implementation | Key Skills |
+|-------|------------------------|-----------|-------------|
+| **Modeling and Molecular Simulations in Biology** | [Universidad Peruana Cayetano Heredia] | SImulation (Update simulation remember) | Molecular Modeling |
 
 
-## Tools & Instrumentation
-💻 Python, R, Bash, Docker, Git  
-🧫 LC–MS, Lipidomics, Protein purification, Nanobiotechnology  
-📈 Data visualization and Molecular Modeling
-⚙️ Workflow management (Snakemake, Nextflow)  
+## Technical Stack
+💻 Computational 
+Python (pandas, numpy, matplotlib) R (tidyverse, statistical modeling)
+Workflow management: Snakemake, Nextflow, CONDA
+Docker-based reproducible environments
+Linux (Ubuntu)
+
+🧫 Analytical CHemistry
+LC–MS, Lipidomics,Proteomics (Starter) 
+Protein purification
+Biochemical Assays and protein purification
 
 ## 🌐 Connect
 - 🌱 Portfolio (coming soon)
