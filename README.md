@@ -27,7 +27,7 @@ Biochemical Assays and protein purification
 ## 🌐 Connect
 - 🌱 Portfolio (coming soon)
 - 🧾 ORCID: 
-- 💼 LinkedIn: [[https://linkedin.com/in/...](#](https://www.linkedin.com/in/jorgevilchezolmedo/))
+- 💼 LinkedIn: (#](https://www.linkedin.com/in/jorgevilchezolmedo/))
 - 🧪 ResearchGate: [link]
 - 📧 Contact: jvilchezolmedo@gmail.com /
 - 📞 WhatsApp: +51 919 704 230
